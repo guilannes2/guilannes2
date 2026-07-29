@@ -58,6 +58,9 @@ Brasília, Brazil · 2013–2018
   <img alt="Contribution graph animation" src="https://raw.githubusercontent.com/guilannes2/guilannes2/output/github-snake.svg">
 </picture>
 
+**Over 110 merged pull requests** across client and product repositories, with two accepted answers
+in public GitHub Discussions.
+
 <sub>Client and product work lives in private repositories, so the contribution graph above is the
 public record of it. Available on request for anyone evaluating my work.</sub>
 
