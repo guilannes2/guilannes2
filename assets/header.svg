@@ -2,14 +2,15 @@
      role="img" aria-label="Think different. — AI-enabled automation and secure systems integration">
 
   <defs>
+    <!-- borda exatamente no #0d1117 do GitHub dark, para o banner encaixar no card sem costura -->
     <radialGradient id="glow" cx="50%" cy="46%" r="62%">
-      <stop offset="0%"   stop-color="#12161c"/>
-      <stop offset="55%"  stop-color="#05070a"/>
-      <stop offset="100%" stop-color="#000000"/>
+      <stop offset="0%"   stop-color="#1c2430"/>
+      <stop offset="55%"  stop-color="#121821"/>
+      <stop offset="100%" stop-color="#0d1117"/>
     </radialGradient>
   </defs>
 
-  <rect width="1200" height="420" fill="#000000"/>
+  <rect width="1200" height="420" fill="#0d1117"/>
   <rect width="1200" height="420" fill="url(#glow)"/>
 
   <!-- name -->
