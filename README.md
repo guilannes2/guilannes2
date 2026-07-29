@@ -56,3 +56,5 @@ Brasília, Brazil · 2013–2018
 
 <sub>Client and product work lives in private repositories, so the contribution graph above is the
 public record of it. Available on request for anyone evaluating my work.</sub>
+
+<!-- profile readme -->
