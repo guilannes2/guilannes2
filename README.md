@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Guilherme Lannes de Souza — AI-enabled automation and secure systems integration" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="./assets/header.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+    <img src="./assets/header.svg" alt="Think different. — AI-enabled automation and secure systems integration" width="100%">
+  </picture>
 </p>
 
 <p align="center">
