@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/guilannes">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-guilannes-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <img alt="Location" src="https://img.shields.io/badge/Lowell,%20MA-United%20States-30363d?style=flat-square&logo=googlemaps&logoColor=white">
+  <img alt="Location" src="https://img.shields.io/badge/Boston,%20MA-United%20States-30363d?style=flat-square&logo=googlemaps&logoColor=white">
 </p>
 
 ---
