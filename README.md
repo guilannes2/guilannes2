@@ -58,8 +58,7 @@ Faculdade Anhanguera de Negócios e Tecnologias da Informação, Brasília, Braz
   <img alt="Contribution graph animation" src="https://raw.githubusercontent.com/guilannes2/guilannes2/output/github-snake.svg">
 </picture>
 
-**Over 110 merged pull requests** across client and product repositories, with two accepted answers
-in public GitHub Discussions.
+**Over 110 merged pull requests** across client and product repositories.
 
 <sub>Client and product work lives in private repositories, so the contribution graph above is the
 public record of it. Available on request for anyone evaluating my work.</sub>
