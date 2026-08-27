@@ -14,22 +14,21 @@
 
 ---
 
-I build AI-enabled automation and secure systems-integration infrastructure that connects
-financial, operational, and field-service platforms. It is the plumbing that lets accounting
-systems, CRMs, e-commerce storefronts, and field-service tools behave as one.
+I build AI-enabled automation and secure integration infrastructure that connects financial,
+operational and field service platforms. It is plumbing work: making accounting systems, CRMs,
+e-commerce storefronts and field tools behave as one system instead of four.
 
-- **Multi-tenant integration services:** OAuth 2.0 authorization flows, webhook ingestion and
-  signature verification, encrypted credential storage, and per-tenant isolation.
-- **AI agent workspaces:** multi-agent orchestration with LangChain and LangGraph, with
-  LLM output passed through validation before it reaches a system of record.
-- **Operations and field-service platforms:** job tracking, document capture, and reporting
-  for teams working away from a desk.
-- **Commerce and accounting extensions:** storefront and back-office features built directly
-  on the QuickBooks, Shopify, and Airtable platforms.
+- Multi-tenant integration services, with OAuth 2.0 authorization flows, webhook ingestion and
+  signature verification, encrypted credential storage, and isolation between tenants.
+- AI agent workspaces orchestrated with LangChain and LangGraph, where model output passes
+  through validation before it can write to a system of record.
+- Operations and field service platforms, covering job tracking, document capture and reporting
+  for teams that work away from a desk.
+- Commerce and accounting extensions built directly on QuickBooks, Shopify and Airtable.
 
-Before moving into full-time engineering I spent six years teaching Information Systems at
-university level in Brazil, covering 23 undergraduate courses and 1,620 classroom hours in
-programming, data structures, databases, secure software development, and computer networks.
+Before going into engineering full time, I taught Information Systems at a Brazilian university
+for six years: 23 undergraduate courses and 1,620 classroom hours, in programming, data
+structures, databases, secure software development and computer networks.
 
 ### Certifications
 
